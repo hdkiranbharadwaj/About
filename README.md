@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apexpredator-legend
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently persuing Engineering
-- 💞️ I’m looking to collaborate on mini projects on AI
+- 💞️ I’m looking to collaborate on mini projects on AI and ML
 - 📫 How to reach me - hdkiranbharadwaj@gmail.com
 
 <!---
